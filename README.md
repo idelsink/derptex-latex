@@ -1,4 +1,10 @@
-# DerpTeX-LaTeX [![Build Status](https://travis-ci.org/idelsink/derptex-latex.svg?branch=master)](https://travis-ci.org/idelsink/derptex-latex)
+# These templates have been deprecated in favor of mexdown.
+[github.com/idelsink/mexdown](https://github.com/idelsink/mexdown)
+
+DerpTeX-LaTeX is no longer maintained and is now **deprecated**.  
+**mexdown** is an upgrade of DerpTeX-LaTeX
+
+## DerpTeX-LaTeX [![Build Status](https://travis-ci.org/idelsink/derptex-latex.svg?branch=master)](https://travis-ci.org/idelsink/derptex-latex)
 
 DerpTeX is the "fancy" theme name for my LaTeX templates.
 
